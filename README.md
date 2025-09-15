@@ -1,5 +1,5 @@
 # AISecForge: Experimental AI Regulatory Policy
-## [AISecForge: Policy Paper](https://github.com/davidkimai/AISecForge-Global-Security-Policy/blob/main/0.%20AISecForge%3A%20A%20Comprehensive%20Policy.md)
+## [AISecForge: Policy Paper](https://github.com/davidkimai/aisecforge/blob/main/POLICY.md)
 
 > **IMPORTANT**: This repository is intended for legitimate security research and AI safety advancement. All methodologies documented herein are for ethical research purposes only.
 
