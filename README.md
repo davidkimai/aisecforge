@@ -1,6 +1,5 @@
-# AISecForge: Experimental AI Regulatory Policy
-## [AISecForge: Policy Paper](https://github.com/davidkimai/aisecforge/blob/main/POLICY.md)
-
+# AISecForge: AI Security Resources
+## [Docs](https://github.com/davidkimai/aisecforge/blob/main/POLICY.md)
 > **IMPORTANT**: This repository is intended for legitimate security research and AI safety advancement. All methodologies documented herein are for ethical research purposes only.
 
 
@@ -15,7 +14,7 @@
 </div>
 
 
-AISecForge is an experimental open-source framework for systematic adversarial testing, evaluation, and security hardening of large language models. This repository consolidates novel methodologies for identifying, classifying, and mitigating security vulnerabilities in frontier AI systems.
+AISecForge is an open-source resource for systematic adversarial testing, evaluation, and security hardening of large language models. This repository consolidates novel methodologies for identifying, classifying, and mitigating security vulnerabilities in frontier AI systems.
 
 ## Core Capabilities
 
