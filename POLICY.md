@@ -1,4 +1,4 @@
-# AISecForge: An Experimental Global Regulatory Policy for AI Security, Compliance and Competitive Advantage
+# AISecForge: An Experimental Framework for AI Security, Compliance and Competitive Advantage
 
 ## Abstract
 
