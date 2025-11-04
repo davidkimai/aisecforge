@@ -1,5 +1,5 @@
 # AISecForge: AI Security Resources
-## [Docs](https://github.com/davidkimai/aisecforge/blob/main/POLICY.md)
+## [Docs](https://github.com/davidkimai/aisecforge/blob/main/DOCS.md)
 > **IMPORTANT**: This repository is intended for legitimate security research and AI safety advancement. All methodologies documented herein are for ethical research purposes only.
 
 
@@ -7,7 +7,7 @@
 
 
 
-![Status](https://img.shields.io/badge/Status-Security-crimson) [![License: PolyForm NC](https://img.shields.io/badge/License-PolyForm-lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/) [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
+![Status](https://img.shields.io/badge/Status-Security-crimson) [![License: MIT](https://img.shields.io/badge/License-MIT-lime.svg)](https://polyformproject.org/licenses/noncommercial/1.0.0/) [![LICENSE: CC BY-NC-ND 4.0](https://img.shields.io/badge/Content-CC--BY--NC--ND-turquoise.svg)](https://creativecommons.org/licenses/by-nc-nd/4.0/) ![Version](https://img.shields.io/badge/Version-0.1.0--alpha-purple)
 
 
 
