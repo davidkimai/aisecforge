@@ -1,5 +1,5 @@
 # AISecForge: AI Security Resources
-## [Docs](https://github.com/davidkimai/aisecforge/blob/main/DOCS.md)
+## [Policy Docs](https://github.com/davidkimai/aisecforge/blob/main/DOCS.md)
 > **IMPORTANT**: This repository is intended for legitimate security research and AI safety advancement. All methodologies documented herein are for ethical research purposes only.
 
 
